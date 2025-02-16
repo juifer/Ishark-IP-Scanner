@@ -8,12 +8,20 @@ A multi-threaded proxy scanner that scans IP ranges for open ports and logs acce
 - Multi-threaded for fast scanning
 - Logs open IPs to a file
 - Displays real-time progress updates
+- 
+## Installation
+Clone the repository using the following command:
+```
+git clone https://github.com/juifer/Ishark-IP-Scanner.git
+cd Ishark-IP-Scanner
+```
 
 ## Requirements
 Make sure you have the required dependencies installed:
 ```
 pip install -r requirements.txt
 ```
+
 
 ## Usage
 Run the script and follow the prompts:
