@@ -8,7 +8,7 @@ A multi-threaded proxy scanner that scans IP ranges for open ports and logs acce
 - Multi-threaded for fast scanning
 - Logs open IPs to a file
 - Displays real-time progress updates
-- 
+- You can input the port to be scanned
 ## Installation
 Clone the repository using the following command:
 ```
