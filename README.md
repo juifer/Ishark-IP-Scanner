@@ -1,4 +1,4 @@
-# Proxy Scanner
+# IP Scanner
 
 ## Description
 A multi-threaded proxy scanner that scans IP ranges for open ports and logs accessible addresses.
